@@ -1,0 +1,27 @@
+.section-1{
+    background-color: blueviolet;
+    
+}
+
+.first-text{
+    margin-left: 39%;
+    font-size: 55px;
+}
+
+.programmer{
+    margin-left: 50%;
+    margin-top: 0%;
+}
+
+.about-me{
+    margin-left: 65%;
+    margin-top: 30px;
+}
+
+.image-container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
